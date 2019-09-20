@@ -59,7 +59,7 @@ ________________________________________________________________
 
 ![github][logo]
 
-[logo]: https://medium.com/comparethemarket/three-quick-tips-to-make-your-github-repository-more-contributor-friendly-47c2db522fe6 "github logo"
+[logo]: GitHub_Logo.png "github logo"
 
 
 ### * 표(Table)  
