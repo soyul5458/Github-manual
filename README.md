@@ -50,7 +50,7 @@ cd _hw1(github 폴더명)_
 ls  : 파일 확인  
 git status  
 git add _파일명(tab누르면 자동완성)_  
-git commit -m "second commit"  
+git commit -m _"second commit"_  
 git push origin master    
 
 
