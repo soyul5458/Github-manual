@@ -43,15 +43,17 @@
     2) 그결과, 컴퓨터에 기록된 데이터와 상이. 따라서 두개를 연결시켜야 함.  
     - git pull origin master : 웹상에 수정된 데이터를 다운받으면 컴퓨터상의 데이터도 업데이트 됨.  
 
-## 다른 컴퓨터에서 연동하는 방법(아무것도 없을때) : 외부에서 파일 생성한 후 올릴 때 사용
-cd _documents(파일이 저장된 폴더명)_
-git clone _github 클론주소_
-cd _hw1(github 폴더명)_
-ls  : 파일 확인
-git status
-git add _파일명(tab누르면 자동완성)_
-git commit -m "second commit"
-git push origin master  
+## 다른 컴퓨터에서 연동하는 방법(아무것도 없을때) : 외부에서 파일 생성한 후 올릴 때 사용  
+cd _documents(파일이 저장된 폴더명)_  
+git clone _github 클론주소_  
+cd _hw1(github 폴더명)_  
+ls  : 파일 확인  
+git status  
+git add _파일명(tab누르면 자동완성)_  
+git commit -m "second commit"  
+git push origin master    
+
+
 ________________________________________________________________
 
 ## [MarkDown 사용방법]  
