@@ -12,6 +12,7 @@
 2. 폴더 선택 후 오른쪽 마우스 클릭하여 git bash here 선택  
     * git init : initialized 초기화  
     * git remote add origin "github 폴더 주소 넣기" : github와 연결하기  
+    * git remote
 
 
 3. 메모장에 파일을 생성하여 해당 폴더에 저장  
