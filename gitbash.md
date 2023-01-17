@@ -60,12 +60,20 @@ cd Documents/CAU_ET
 git pull
 
 ## 파일 올리기 
-git add 폴더이름/파일이름.형식
+git add .    : 디렉토리의 모든 변경 내용 깃허브로 넘김
+git add -p    : 각 변경사항을 터미널에서 직접 확인하며 넘김
+git add 폴더이름/파일이름.형식  : 파일경로 작성, 해당 파일만 넘김
 ex)git add yr19/Readme.md >> yr19라는 폴더에 Readme.md 라는 파일을 올리겠다.
 
 ## 변경 내역에 관한 기록
 git commit -m "message"
 ex) git commit -m "update"
+
+### commit 메세지 입력 방법 규칙
+* [Add] 설명:새로운 파일 추가
+* [updated] 설명: 기존 파일 수정
+* [Deleted] 설명: 기존 파일 삭제
+
 
 ## 깃허브에 올리기
 git push
