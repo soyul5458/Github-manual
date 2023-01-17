@@ -75,6 +75,18 @@ git push
 
 ex) git commit -m "Update R_setup.txt"<img src="C:\Users\dd\AppData\Roaming\Typora\typora-user-images\image-20200110235230754.png" alt="image-20200110235230754" style="zoom:80%;" />
 
+### git push/pull 에러 
+
+------
+1. Github 로그인
+2. 우측 상단 프로필 이미지 클릭 > Settings 클릭
+3. 좌측 하단 Demeloper settings 클릭
+4. Personal access tokens > Generate new token 클릭
+5. New personal access token (classic) 클릭 > 'select scopes' 에서 'repo' 체크
+6. 생성된 토큰 안전한 곳에 저장해두기 (나갔다 들어오면 확인 불가능)
+7. pull/ push할 때 복사한 토큰 비밀번호 부분에 붙여넣기
+[참고](https://velog.io/@mgk8609/remote-Password-authentication-is-temporarily-disabled-as-part-of-a-brownout.-Please-use-a-personal-access-token-instead.-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
+
 
 
 ### 파일 지우고 싶을 때
