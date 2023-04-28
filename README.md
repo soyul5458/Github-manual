@@ -21,7 +21,8 @@
     * git add . : 변경된 파일을 모두 tracking  
     * git commit -m "commit할 메세지 추가하기" : history가 남으므로 간결하고 강력하게 기록할것  
     (*commit이란 파일의 수정이 끝났다는 의미로 로컬저장소에 저장하는것*)  
-    * git push origin master : 폴더(local staged)에 저장된 파일을 원격 저장소 github에 올리기  
+    * git push origin master or git push origin main : 폴더(local staged)에 저장된 파일을 원격 저장소 github에 올리기  
+      * 연결하고자하는 github에서 main인지 master인지 확인하기
   
 ### 파일 다운받는 방법(github에 있는 파일 다운받기)  
 
