@@ -40,7 +40,11 @@ git clone "https://github.com/ikwak2/CAU_ET"
 ls
 ```
 
+### 연결된 git 확인
+git remote -v
 
+### git 재연결
+git remote add 주소 
 
 ### Github에 파일 올리기 
 
